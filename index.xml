@@ -29,6 +29,7 @@
         
         
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a magna ut orci rhoncus efficitur. Sed pellentesque vel ex at dapibus. Nullam felis eros, consequat eget lacus nec, vulputate dapibus diam.
+cSpinning donut in Ci,j,k,x,y,o,N; main(){float z[1760],a #define R(t,x,y) f=x;x-=t*y\ ;y&amp;#43;=t*f;f=(3-x*x-y*y)/2;x*=f;y*=f; =0,e=1,c=1,d=0,f,g,h,G,H,A,t,D;char b[1760];for(;;){memset(b,32,1760);g=0, h=1;memset(z,0,7040);for(j=0;j&amp;lt;90;j&amp;#43;&amp;#43;){ G=0,H=1;for(i=0;i&amp;lt;314;i&amp;#43;&amp;#43;){A=h&amp;#43;2,D=1/(G* A*a&amp;#43;g*e&amp;#43;5);t=G*A *e-g*a;x=40&amp;#43;30*D *(H*A*d-t*c);y= 12&amp;#43;15*D*(H*A*c&amp;#43; t*d);o=x&amp;#43;80*y;N =8*((g*a-G*h*e) *d-G*h*a-g*e-H*h *c);if(22&amp;gt;y&amp;amp;&amp;amp;y&amp;gt; 0&amp;amp;&amp;amp;x&amp;gt;0&amp;amp;&amp;amp;80&amp;gt;x&amp;amp;&amp;amp;D&amp;gt;z[o]){z[o]=D;b[o]=(N&amp;gt;0 ?N:0)[&amp;#34;.,-~:;=!*#$@&amp;#34;];}R(.02,H,G);}R( .07,h,g);}for(k=0;1761&amp;gt;k;k&amp;#43;&amp;#43;)putchar (k%80?b[k]:10);R(.04,e,a);R(.02,d, c);usleep(15000);printf(&amp;#39;\n&amp;#39;&amp;#43;( &amp;#34; donut.c! \x1b[23A&amp;#34;));}} /*no math lib needed .@a1k0n 2021.*/ Source: https://www.
           
         
         </description>
